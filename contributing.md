@@ -1,3 +1,4 @@
+![GDSC CRCE](https://github.com/CRCE-GDSC/Weekly-thon/assets/112317470/53acc79c-f759-47ab-8797-ee94d3d4c54b)
 # Guidance on how to contribute
 
 > All contributions to this project will be released under the CC0 public domain
